@@ -16,6 +16,6 @@ B站视频评论区智能分析器/
     └── {BV号}_analysis.json   # AI 分析报告  
 ```
 ## 使用说明  
-执行gui.py，在弹出界面里填写deepseekAPI，模型，B站cookie之后点击执行即可
+执行gui.py，在弹出界面里填写deepseekAPI，BV号，B站cookie之后点击执行即可
 
 
